@@ -1,12 +1,10 @@
-### I'm a software engineer based out of Toronto, Canada. When I'm not building applications, I'm a university student studying applied mathematics and computer science. 
+Hi there 👋
 
-<!---
-vladium-io/vladium-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+    👨‍💻  I'm a software engineer based out of Toronto, Canada. When I'm not building applications, I'm a university student studying applied mathematics and       computer science. I believe that software should be elegant, efficient, and easy to use. 
 
-- 👋 Hi, I’m @vladium-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+    🔭 I’m currently working on trying to learn more about DevOps.
+
+    📫 You can contact or find me through:
+        🔗 Website: https://vladium-io.github.io/
+        ✉️ Email: vlad.andreuta@rogers.com
+        🟦 LinkedIn: https://www.linkedin.com/vladandreuta
