@@ -1,4 +1,4 @@
-### Hey, come here often? 😎
+### I'm a software engineer based out of Toronto, Canada. When I'm not building applications, I'm a university student studying applied mathematics and computer science. 
 
 <!---
 vladium-io/vladium-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
