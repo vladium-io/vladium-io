@@ -7,4 +7,4 @@ software should be elegant, efficient, and easy to use.
  📫 You can contact or find me through:
    * 🔗 Website: https://vladium-io.github.io/
    * ✉️ Email: vlad.andreuta@rogers.com
-   * 🟦 LinkedIn: https://www.linkedin.com/vladandreuta
+   * 🟦 LinkedIn: https://www.linkedin.com/in/vladandreuta/
